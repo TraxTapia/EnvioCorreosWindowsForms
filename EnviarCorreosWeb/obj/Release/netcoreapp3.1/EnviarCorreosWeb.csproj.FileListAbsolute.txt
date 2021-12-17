@@ -1,0 +1,16 @@
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.exe
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.deps.json
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.runtimeconfig.json
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.runtimeconfig.dev.json
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.dll
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\bin\Release\netcoreapp3.1\EnviarCorreosWeb.pdb
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.Form1.resources
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.Properties.Resources.resources
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.csproj.GenerateResource.cache
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.AssemblyInfoInputs.cache
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.AssemblyInfo.cs
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.dll
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.pdb
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Release\netcoreapp3.1\EnviarCorreosWeb.genruntimeconfig.cache

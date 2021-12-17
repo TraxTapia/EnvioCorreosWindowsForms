@@ -1,0 +1,5 @@
+C:\Users\ivan.tapia\Documents\Enviar correos c#\EnviarCorreosWeb.exe
+C:\Users\ivan.tapia\Documents\Enviar correos c#\EnviarCorreosWeb.dll
+C:\Users\ivan.tapia\Documents\Enviar correos c#\EnviarCorreosWeb.deps.json
+C:\Users\ivan.tapia\Documents\Enviar correos c#\EnviarCorreosWeb.runtimeconfig.json
+C:\Users\ivan.tapia\Documents\Enviar correos c#\EnviarCorreosWeb.pdb
