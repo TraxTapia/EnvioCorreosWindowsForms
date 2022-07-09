@@ -14,3 +14,4 @@ C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Debug\net
 C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Debug\netcoreapp3.1\EnviarCorreosWeb.dll
 C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Debug\netcoreapp3.1\EnviarCorreosWeb.pdb
 C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Debug\netcoreapp3.1\EnviarCorreosWeb.genruntimeconfig.cache
+C:\Users\ivan.tapia\source\repos\EnviarCorreosWeb\EnviarCorreosWeb\obj\Debug\netcoreapp3.1\EnviarCorreosWeb.GeneratedMSBuildEditorConfig.editorconfig
